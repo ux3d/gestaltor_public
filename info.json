@@ -1,7 +1,7 @@
 {
   "gestaltor": {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "update-link": "https://gestaltor.com/download",
-    "optional-message": "<p style='color:#FFFFFFFF;margin-right: 40px'>New version available:</p><p style='color:#FFFFFFFF; font-weight: bold;'>Gestaltor 2.2.1</p>"
+    "optional-message": "<p style='color:#FFFFFFFF;margin-right: 40px'>New version available:</p><p style='color:#FFFFFFFF; font-weight: bold;'>Gestaltor 2.2.2</p>"
   }
 }
